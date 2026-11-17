@@ -1,0 +1,19 @@
+## Interface: 16001
+## Title: ProxiVox
+## Notes: Chat vocal de proximité : le volume de chaque participant suit la distance.
+## Author: VDRomain
+## Version: 0.1.0
+## SavedVariables: ProxiVoxDB
+## X-Category: Communication
+## IconTexture: Interface\Icons\Ability_Hunter_BeastCall
+## AddonCompartmentFunc: ProxiVox_OnAddonCompartmentClick
+## AddonCompartmentFuncOnEnter: ProxiVox_OnAddonCompartmentEnter
+## AddonCompartmentFuncOnLeave: ProxiVox_OnAddonCompartmentLeave
+
+Geometry.lua
+Core.lua
+Comm.lua
+Voice.lua
+Arrow.lua
+Setup.lua
+Minimap.lua
